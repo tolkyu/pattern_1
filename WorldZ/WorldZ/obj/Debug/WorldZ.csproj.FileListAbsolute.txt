@@ -1,0 +1,7 @@
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WorldZ\WorldZ\bin\Debug\WorldZ.exe.config
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WorldZ\WorldZ\bin\Debug\WorldZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WorldZ\WorldZ\bin\Debug\WorldZ.pdb
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WorldZ\WorldZ\obj\Debug\WorldZ.csprojAssemblyReference.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WorldZ\WorldZ\obj\Debug\WorldZ.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WorldZ\WorldZ\obj\Debug\WorldZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\WorldZ\WorldZ\obj\Debug\WorldZ.pdb
